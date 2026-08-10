@@ -180,10 +180,14 @@ More achievements and milestones coming soon! 🚀
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sushmita1323&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sushmita1323&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake Animation" />
+</p>
+
+<p align="center">
+  <i>Every contribution is a step forward 🚀</i>
 </p>
 
 ---
